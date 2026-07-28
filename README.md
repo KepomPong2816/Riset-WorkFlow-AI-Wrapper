@@ -726,3 +726,8 @@ Jangan Kirim Data Berikut Sebagai Sample Data ke LLM:
 > Catatan : Jika memang perlu kirim data tsb, data harus di Redacted biar tdk di training sama Om Sam Altman
 
 ---
+
+## 13. Referensi
+- Roadmap SH [Roadmap](https://roadmap.sh/ai-engineer).
+- promptingguide [promptingguide](https://www.promptingguide.ai).
+- Medium com [Medium](https://medium.com/@padlanalqinsi/implementasi-sederhana-gemini-api-dalam-pembuatan-custom-chatbot-menggunakan-go-84fe7b81e565).
