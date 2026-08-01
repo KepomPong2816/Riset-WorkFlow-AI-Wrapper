@@ -8,7 +8,7 @@
 
 Sistem akan dibagi menjadi tiga komponen utama.
 
-| Komponen | JobDes |
+| Komponen | JobDesk |
 |----------|----------------|
 | **Laravel (Core Project)** | Authentication, Authorization, Intent Parsing, Query Builder, Business Logic, Response Formatter |
 | **Go Wrapper Service** | Prompt Builder, Guardrail, LLM Communication, Response Validation |
